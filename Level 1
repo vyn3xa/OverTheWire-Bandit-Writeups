@@ -1,0 +1,13 @@
+# OverTheWire: Bandit Write-up
+
+## Level 0 ➔ Level 1
+
+**Goal:** Establish the initial SSH connection to the server and find the first level password.
+
+**Solution Steps:** 1. **Accessing the Server:** Upon logging into the server, we automatically start in the **home directory**.
+   
+2. **Investigation:** I used the `ls` command to see which files are located here. The output shows that only the `readme` file exists.
+
+3. **Retrieving the Password:** To reveal the hidden password inside the file, we run the following command:
+   ```bash
+   cat readme
