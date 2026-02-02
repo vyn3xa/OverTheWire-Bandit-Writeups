@@ -1,6 +1,6 @@
 # Bandit: Level 1
 
-**Goal:** Access the password located in the file named
+**Goal:** Access the password located in the file named.
 
 **Solution Steps:**
 
