@@ -1,6 +1,6 @@
-* Goal: * Obtaining the password from a file located in the main directory that has spaces in its filename.
+**Goal:** Obtaining the password from a file located in the main directory that has spaces in its filename.
 
-* Solution Steps: *
+**Solution Steps:**
 
 1 - Use the `ls` command to view the file in the directory. You will see a file whose name has "--" characters at both the beginning and the end.
 
