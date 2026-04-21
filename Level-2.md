@@ -1,3 +1,5 @@
+# Bandit: Level 2
+
 **Goal:** Obtaining the password from a file located in the main directory that has spaces in its filename.
 
 **Solution Steps:**
